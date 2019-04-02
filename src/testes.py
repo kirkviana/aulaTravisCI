@@ -1,3 +1,8 @@
+import jogovelha
+import sys
+
+erroInicializar = False
+
 def inicializar():
   tab = []
   for i in range(3):
